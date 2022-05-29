@@ -1,7 +1,7 @@
 <?php
-namespace Olifolkerd\Convertor\Tests;
+namespace Vinolog\Convertor\Tests;
 
-use Olifolkerd\Convertor\ConversionRepository;
+use Vinolog\Convertor\ConversionRepository;
 use PHPUnit\Framework\TestCase;
 
 class ConversionRepositoryTest extends TestCase

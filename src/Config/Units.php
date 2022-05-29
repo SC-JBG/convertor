@@ -37,7 +37,10 @@ return array(
     ///////Units Of Volume///////
     "dm3" => array("base" => "l", "conversion" => 1), //cubic decimeter - litre
     "l" => array("base" => "l", "conversion" => 1), //litre - base unit for volume
+    "dl" => array("base" => "l", "conversion" => 0.1), //deciliter
+    "cl" => array("base" => "l", "conversion" => 0.01), //centiliter
     "ml" => array("base" => "l", "conversion" => 0.001), //mililitre
+    "ul" => array("base" => "l", "conversion" => 0.000001), //microliter
     "cm3" => array("base" => "l", "conversion" => 0.001), //cubic centimeter - mililitre
     "hl" => array("base" => "l", "conversion" => 100), //hectolitre
     "kl" => array("base" => "l", "conversion" => 1000), //kilolitre

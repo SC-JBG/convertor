@@ -1,8 +1,8 @@
 <?php
-namespace Olifolkerd\Convertor;
+namespace Vinolog\Convertor;
 
 use InvalidArgumentException;
-use Olifolkerd\Convertor\Exceptions\ConvertorException;
+use Vinolog\Convertor\Exceptions\ConvertorException;
 
 final class ConversionDefinition
 {

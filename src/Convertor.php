@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Olifolkerd\Convertor;
+namespace Vinolog\Convertor;
 
-use Olifolkerd\Convertor\Exceptions\ConvertorDifferentTypeException;
-use Olifolkerd\Convertor\Exceptions\ConvertorException;
-use Olifolkerd\Convertor\Exceptions\ConvertorInvalidUnitException;
-use Olifolkerd\Convertor\Exceptions\FileNotFoundException;
+use Vinolog\Convertor\Exceptions\ConvertorDifferentTypeException;
+use Vinolog\Convertor\Exceptions\ConvertorException;
+use Vinolog\Convertor\Exceptions\ConvertorInvalidUnitException;
+use Vinolog\Convertor\Exceptions\FileNotFoundException;
 
 class Convertor
 {

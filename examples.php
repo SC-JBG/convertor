@@ -1,6 +1,6 @@
 <?php         require 'vendor/autoload.php';
 
-use Olifolkerd\Convertor\Convertor;
+use Vinolog\Convertor\Convertor;
 ?>
 
 <html>

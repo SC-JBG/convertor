@@ -1,8 +1,8 @@
 <?php
-namespace Olifolkerd\Convertor\Tests;
+namespace Vinolog\Convertor\Tests;
 
-use Olifolkerd\Convertor\Convertor;
-use Olifolkerd\Convertor\Exceptions\ConvertorInvalidUnitException;
+use Vinolog\Convertor\Convertor;
+use Vinolog\Convertor\Exceptions\ConvertorInvalidUnitException;
 use PHPUnit\Framework\TestCase;
 
 class ConvertorTest extends TestCase

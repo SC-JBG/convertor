@@ -1,10 +1,10 @@
 <?php
-namespace Olifolkerd\Convertor;
+namespace Vinolog\Convertor;
 
 use InvalidArgumentException;
-use Olifolkerd\Convertor\Exceptions\ConvertorException;
-use Olifolkerd\Convertor\Exceptions\ConvertorInvalidUnitException;
-use Olifolkerd\Convertor\Exceptions\FileNotFoundException;
+use Vinolog\Convertor\Exceptions\ConvertorException;
+use Vinolog\Convertor\Exceptions\ConvertorInvalidUnitException;
+use Vinolog\Convertor\Exceptions\FileNotFoundException;
 
 final class ConversionRepository
 {

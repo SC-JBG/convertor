@@ -1,5 +1,5 @@
 <?php
-namespace Olifolkerd\Convertor\Exceptions;
+namespace Vinolog\Convertor\Exceptions;
 
 use Exception;
 use Throwable;
