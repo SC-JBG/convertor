@@ -1,8 +1,8 @@
-![Convertor](http://Vinolog.github.io/convertor/images/logo.png)
+![Convertor](http://olifolkerd.github.io/convertor/images/logo.png)
 
 An easy to use PHP unit conversion library.
 
-Full documentation & demos can be found at: [http://Vinolog.github.io/convertor](http://Vinolog.github.io/convertor)
+Full documentation & demos can be found at: [http://olifolkerd.github.io/convertor](http://olifolkerd.github.io/convertor)
 
 Convertor 
 ================================
@@ -38,13 +38,13 @@ Add the following to your `composer.json` file:
 	...
 	{
 		"type": "vcs",
-		"url": "https://github.com/Vinolog/convertor"
+		"url": "https://github.com/sc-jbg/convertor"
 	}
 	...
 ],
 "require": {
 	...
-	"Vinolog/convertor": "dev-master",
+	"sc-jbg/convertor": "dev-master",
 	...
 }
 ```
